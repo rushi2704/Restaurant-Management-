@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_ycle"
+
+            android:title="Cycling" />
+        <item
+            android:id="@+id/nav_bus"
+
+            android:title="Bus" />
+        <item
+            android:id="@+id/nav_plane"
+
+            android:title="Plane" />
+
+    </group>
+
+    <group android:checkableBehavior="single">
+
+        <item android:title="Profile">
+            <menu>
+
+                <item
+                    android:id="@+id/nav_login"
+
+                    android:title="Login" />
+                <item
+                    android:id="@+id/nav_profile"
+
+                    android:title="Profile" />
+                <item
+                    android:id="@+id/nav_logout"
+                    android:icon="@drawable/logout"
+                    android:title="Logout" />
+            </menu>
+        </item>
+    </group>
+
+    <item android:title="Communicate">
+
+        <menu>
+
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/logout"
+                android:title="share" />
+            <item
+                android:id="@+id/nav_rate"
+                android:icon="@drawable/logout"
+                android:title="rate us" />
+        </menu>
+    </item>
+</menu>

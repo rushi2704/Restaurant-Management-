@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1045713131113",
+    "firebase_url": "https://login-pages-45bea-default-rtdb.firebaseio.com",
+    "project_id": "login-pages-45bea",
+    "storage_bucket": "login-pages-45bea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045713131113:android:28ebb600fb8e507cb434f8",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk_A2i4OpgYyO6Ho2xs1-UW4y_99dCXvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

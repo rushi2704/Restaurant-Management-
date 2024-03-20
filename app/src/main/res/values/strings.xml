@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="col1">Table</string>
+    <string name="col2">Item</string>
+    <string name="col3">Status</string>
+    <string name="col4">Date</string>
+    <string name="col5"></string>
+    <string name="row1">Table 2</string>
+    <string name="row2">paneer chilly</string>
+    <string name="row3">in process</string>
+    <string name="row4">04/05/2024</string>
+
+
+    <string name="buttonText">Complete</string>
+
+
+</resources>
