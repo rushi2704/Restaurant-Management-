@@ -27,7 +27,7 @@
 
         <androidx.cardview.widget.CardView
             android:id="@+id/make_orders"
-            android:layout_width="130dp"
+            android:layout_width="150dp"
             android:layout_height="250dp"
             app:cardCornerRadius="15dp"
             app:cardElevation="12dp"
@@ -67,7 +67,7 @@
 
         <androidx.cardview.widget.CardView
             android:id="@+id/orders_activity"
-            android:layout_width="130dp"
+            android:layout_width="150dp"
             android:layout_height="250dp"
             app:cardCornerRadius="15dp"
             app:cardElevation="12dp"
